@@ -33,6 +33,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 Manish added this line for his learning process 
 
-Manish proposing another merge conflict
-
-Manish proposing some additions for git revert here. 
+Manish proposing another merge conflict 
